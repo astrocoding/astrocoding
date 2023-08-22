@@ -29,7 +29,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://github.com/astrocoding?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,tailwind,php,laravel,nodejs,mysql,mongo,nginx,java,kotlin,androidstudio,idea,linux,bash,gcp,kubernetes,docker,postman,git,vscode,vim,figma,ai,ps,&perline=13" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,tailwind,php,laravel,nodejs,mysql,mongo,nginx,java,kotlin,androidstudio,idea,linux,bash,gcp,kubernetes,postman,git,vscode,vim,figma,&perline=13" />
     </a>
   </p>
 </div>
