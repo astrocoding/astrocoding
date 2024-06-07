@@ -1,7 +1,7 @@
 <div align="center">
 	<h1 align="center">Hi, Fellas!👋 I'm Zaenal Alfian</h1>
 	<h3>A freelance developer who loves learning something new</h3>
-	  🌱 I’m currently learning <b>Google Cloud Computing, Node.js, Kubernetes</b><br>
+	  🌱 I’m currently learning <b>React, Google Cloud Computing, Node.js, Kubernetes</b><br>
 	  🎯 Main focus as a <b>Full-stack Developer</b><br><br>
 </div>
 
