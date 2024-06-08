@@ -29,7 +29,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://github.com/astrocoding?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,tailwind,php,laravel,nodejs,mysql,mongo,nginx,java,kotlin,androidstudio,idea,linux,bash,gcp,kubernetes,postman,git,vscode,vim,figma,&perline=13" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,sass,bootstrap,tailwind,php,laravel,nodejs,mysql,mongo,nginx,java,kotlin,androidstudio,idea,linux,bash,gcp,kubernetes,python,postman,git,vscode,vim,figma,&perline=13" />
     </a>
   </p>
 </div>
@@ -46,4 +46,4 @@
 <!-- astrocoding/astrocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Credits: [Zaenal Alfian](https://github.com/astrocoding)
-Last Edited on: 19/08/2023
+Last Edited on: 08/06/2024
