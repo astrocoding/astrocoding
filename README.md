@@ -71,8 +71,9 @@
   		<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=astrocoding&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 	</a>
 </p>
-
 <hr>
 
+![](https://komarev.com/ghpvc/?username=astrocoding)
+<br>
 Credits: [Zaenal Alfian](https://github.com/astrocoding)
 Last Edited on: 26/07/2024
