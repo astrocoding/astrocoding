@@ -19,6 +19,25 @@
 ![Cypress](https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=Cypress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-darkgray.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-orange.svg?style=for-the-badge&logo=Hapi.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23FF9A00.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001D2A.svg?style=for-the-badge&logo=MongoDB&logoColor=00E761)
+![Firebase](https://img.shields.io/badge/Firebase-717171?style=for-the-badge&logo=Firebase&logoColor=F7C52A)
+![Redis](https://img.shields.io/badge/Redis-red.svg?style=for-the-badge&logo=Redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-B2B2B2?style=for-the-badge&logo=RabbitMQ&logoColor=F76300)
+![Jest](https://img.shields.io/badge/Jest-f14126?style=for-the-badge&logo=Jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+### Development Tools
+
+
 <!-- My Github Statistics -->
 <p align="center">
 	<a href="https://github.com/astrocoding">	  
