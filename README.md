@@ -1,9 +1,9 @@
 <h1>Hi Fellas, I'm Zaenal Alfian</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### A freelance developer who loves learning something new
+### A Freelance Developer who loves learning something new
 - 🎯 Main focus as a **Fullstack Developer**
-- 🌱 I'm currently learning **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
+- 🌱 I'm currently working with **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 - 🌐 Feel free to **connect with me:**
 
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:zaenalalfian20@gmail.com)
