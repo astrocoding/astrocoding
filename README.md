@@ -36,9 +36,27 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### Development Tools
+![Git](https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2391E6?style=for-the-badge&logo=Docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-019137?style=for-the-badge&logo=Nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&logoColor=E8B200)
 
+### Cloud & Deployment Platform
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-DADADA?style=for-the-badge&logo=GoogleCloud&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-orange.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-37A9B5?style=for-the-badge&logo=Netlify&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-F0F0F0?style=for-the-badge&logo=Jenkins&logoColor=CC3631)
 
-<!-- My Github Statistics -->
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-356F9E?style=for-the-badge&logo=python&logoColor=yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-9935EA?style=for-the-badge&logo=kotlin&logoColor=white)
+
+## My Github Statistics
 <p align="center">
 	<a href="https://github.com/astrocoding">	  
   		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=astrocoding&theme=react&show_icons=true&hide_border=true&count_private=true"/>
