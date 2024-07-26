@@ -1,38 +1,23 @@
-<div align="center">
-	<h1 align="center">Hi, Fellas!👋 I'm Zaenal Alfian</h1>
-	<h3>A freelance developer who loves learning something new</h3>
-	  🌱 I’m currently learning <b>React, Google Cloud Computing, Node.js, Kubernetes</b><br>
-	  🎯 Main focus as a <b>Full-stack Developer</b><br><br>
-</div>
+<h1>Hi Fellas, I'm Zaenal Alfian</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!-- My Social Media and Contact -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">📶 Connect With Me</h3></summary>
-  </ul>
-  <p align="center">
-	  <a href="mailto:zaenalalfian20@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a>
-	  <a href="https://github.com/astrocoding"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" target="_blank"/></a>
-	  <a href="https://www.linkedin.com/in/zaenal-alfian/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
-    <a href="https://www.instagram.com/zencode_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/></a>
-	  <a href="https://www.facebook.com/profile.php?id=100011608633843"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" target="_blank"/></a>
-  </p>
-</div>
+### A freelance developer who loves learning something new
+- 🎯 Main focus as a **Fullstack Developer**
+- 🌱 I'm currently learning **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 
-<hr>
-
-<!-- Technologies and Tech Stack -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h3></summary>
-  </ul>
-  <!--tech stack icons-->
-  <p align="center">
-    <a href="https://github.com/astrocoding?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,sass,bootstrap,tailwind,php,laravel,nodejs,mysql,mongo,nginx,java,kotlin,androidstudio,idea,linux,bash,gcp,kubernetes,python,postman,git,vscode,vim,figma,&perline=13" />
-    </a>
-  </p>
-</div>
+## Skills and Experience
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-orchid.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%2331A8FF.svg?style=for-the-badge&logo=Webpack&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-hotpink.svg?style=for-the-badge&logo=Storybook&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-green.svg?style=for-the-badge&logo=Cypress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-darkgray.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 <!-- My Github Statistics -->
 <p align="center">
@@ -46,4 +31,4 @@
 <!-- astrocoding/astrocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Credits: [Zaenal Alfian](https://github.com/astrocoding)
-Last Edited on: 08/06/2024
+Last Edited on: 26/07/2024
