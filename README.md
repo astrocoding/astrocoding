@@ -17,6 +17,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](https://github.com/topics/html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
@@ -52,12 +53,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-001D2A?style=flat&logo=gnubash&logoColor=4EAA25)
-![Linux](https://img.shields.io/badge/Linux-black.svg?style=flat&logo=Linux&logoColor=E8B200)
+![Linux](https://img.shields.io/badge/Linux-%23404d59.svg?style=flat&logo=Linux&logoColor=E8B200)
 
 ### Cloud & Deployment Platform
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-F0F0F0?style=flat&logo=GoogleCloud&logoColor=red)
 ![AWS](https://img.shields.io/badge/AWS-orange.svg?style=flat&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=flat&logo=Vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23404d59.svg?style=flat&logo=Vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-001D2A?style=flat&logo=Netlify&logoColor=00C7B7)
 ![Jenkins](https://img.shields.io/badge/Jenkins-F1F1F1?style=flat&logo=Jenkins&logoColor=CC3631)
 
