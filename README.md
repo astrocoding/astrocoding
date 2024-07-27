@@ -7,7 +7,7 @@
 - 🌐 Feel free to **connect with me:**
 
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:zaenalalfian20@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/astrocoding)
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/astrocoding/  "target=_blank")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaenal-alfian/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/zencode_/)
 
@@ -15,7 +15,7 @@
 
 ## Skills and Experience
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
+[![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/topics/html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
