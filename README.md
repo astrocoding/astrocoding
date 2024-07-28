@@ -5,7 +5,8 @@
 - 🎯 Main focus as a **Fullstack Developer**
 - 🌱 I'm currently working with **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 - 🌐 Feel free to **connect with me:**
-
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:zaenalalfian20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaenal-alfian/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/zencode_/)
