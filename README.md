@@ -3,23 +3,16 @@
 
 ### A Freelance Developer who loves learning something new
 - 🎯 Main focus as a **Fullstack Developer**
-- 🌱 I'm currently working with **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
+- 💼 I'm currently working with **Laravel, React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 
 <br>
-<p align="center">🌐 Feel free to <strong>connect with me:</strong></p>
+<p align="center">Feel free to <strong>connect with me:</strong></p>
 
-<p align="center">
-  <a href="mailto:zaenalalfian20@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zaenal-alfian/">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/zencode_/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
+ <p align="center">
+	<a href="mailto:zaenalalfian20@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a>
+	<a href="https://www.linkedin.com/in/zaenal-alfian/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
+    	<a href="https://www.instagram.com/zencode_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/></a>
+  </p>
 
 <hr>
 
