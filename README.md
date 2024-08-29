@@ -6,7 +6,6 @@
 - 🌱 I'm currently working with **React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 - 🌐 Feel free to **connect with me:**
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:zaenalalfian20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaenal-alfian/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/zencode_/)
@@ -26,7 +25,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-36393E?style=flat&logo=Webpack&logoColor=8DD6F9)
-![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat&logo=lit&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=Cypress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
@@ -84,4 +82,4 @@
 ![](https://komarev.com/ghpvc/?username=astrocoding)
 <br>
 Credits: [Zaenal Alfian](https://github.com/astrocoding)
-Last Edited on: 27/07/2024
+Last Edited on: 29/08/2024
