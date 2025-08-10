@@ -1,7 +1,7 @@
 <h1>Hi Fellas, I'm Zaenal Alfian</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### A Freelance Developer who loves learning something new
+### A Carefree Developer who loves learning something new
 - 🎯 Main focus as a **Fullstack Developer**
 - 💼 I'm currently working with **Laravel, React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
 
