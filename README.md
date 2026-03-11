@@ -1,4 +1,4 @@
-<h1>Hi Fellas, I'm Zaenal Alfian</a> 
+<h1>Hi Fellas, I'm Zaenal Alfian!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### A Carefree Developer who loves learning something new
@@ -74,13 +74,6 @@
 ![Python](https://img.shields.io/badge/Python-356F9E?style=flat&logo=python&logoColor=yellow)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-## My Github Statistics
-<p align="center">
-	<a href="https://github.com/astrocoding">	  
-  		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=astrocoding&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  		<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=astrocoding&theme=react&show_icons=true&hide_border=true&layout=compact"/>
-	</a>
-</p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=astrocoding)
