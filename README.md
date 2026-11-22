@@ -1,9 +1,12 @@
 <h1>Hi Fellas, I'm Zaenal Alfian!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### A Carefree Developer who loves learning something new
-- 🎯 Main focus as a **Fullstack Developer**
-- 💼 I'm currently working with **Laravel, React, Docker, Google Cloud Platform, Hapi, PostgreSQL**
+### 🚀 Fullstack Developer & Cloud / DevOps Enthusiast
+Passionate about building scalable web applications, robust microservices, and automated cloud workflows that deliver real-world impact.
+
+- 🎯 Main focus: **Fullstack Web Development, API Architecture & Cloud Infrastructure**
+- 💼 Currently working with: **React, Next.js, Node.js, Go, Laravel, Docker, GCP & PostgreSQL**
+- 🌐 Explore my portfolio: **[zaenalalfian.cloud](https://zaenalalfian.cloud)**
 
 <br>
 <p align="center">Feel free to <strong>connect with me:</strong></p>
@@ -11,6 +14,7 @@
  <p align="center">
 	<a href="mailto:zaenalalfian20@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a>
 	<a href="https://www.linkedin.com/in/zaenal-alfian/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
+	<a href="https://zaenalalfian.cloud" target="_blank"><img src="https://img.shields.io/badge/website-%232563EB.svg?style=plastic&logo=googlechrome&logoColor=white" alt="Website"/></a>
     	<a href="https://www.instagram.com/zencode_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/></a>
   </p>
 
@@ -44,6 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001D2A?style=flat&logo=MongoDB&logoColor=00E761)
 ![Firebase](https://img.shields.io/badge/Firebase-36393E?style=flat&logo=Firebase&logoColor=F7C52A)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F0F0F0?style=flat&logo=RabbitMQ&logoColor=F76300)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
@@ -53,6 +58,8 @@
 ![Git](https://img.shields.io/badge/Git-E84E31?style=flat&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue.svg?style=flat&logo=htmx&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=NPM&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=Composer&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
@@ -65,11 +72,16 @@
 ![AWS](https://img.shields.io/badge/AWS-orange.svg?style=flat&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23404d59.svg?style=flat&logo=Vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-001D2A?style=flat&logo=Netlify&logoColor=00C7B7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-F1F1F1?style=flat&logo=Jenkins&logoColor=CC3631)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=flat&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-356F9E?style=flat&logo=python&logoColor=yellow)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -79,4 +91,4 @@
 ![](https://komarev.com/ghpvc/?username=astrocoding)
 <br>
 Credits: [Zaenal Alfian](https://github.com/astrocoding)
-Last Edited on: 29/08/2024
+Last Edited on: 22/11/2026
